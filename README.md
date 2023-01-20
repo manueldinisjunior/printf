@@ -1,7 +1,7 @@
 
 # Printf
 
-Write owr own printf function.
+Writing owr first project for a Printf function
 
 ## Authors
 
