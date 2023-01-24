@@ -112,7 +112,4 @@ These are all the tasks of this project, the ones that are completed link to the
 * **Raheem Adegbite** - [@rahdeg](https://github.com/Rahdeg)
 
 
-## Authors
-
-
 
